@@ -3,7 +3,7 @@
   "version": "2.1.1",
   "slug": "acme_sh",
   "description": "Manage certificates with ACME.sh",
-  "url": "https://github.com/wernerhp/ha_addon_acme_sh",
+  "url": "https://github.com/campbellhennessy/ha.addon.acme_sh",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "startup": "once",
   "boot": "manual",
@@ -11,7 +11,7 @@
   "map": ["ssl:rw"],
   "options": {
     "account": "str",
-    "server": "zerossl",
+    "server": "letsencrypt",
     "domains": [null],
     "certfile": "fullchain.pem",
     "keyfile": "privkey.pem",
