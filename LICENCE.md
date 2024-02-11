@@ -1,4 +1,5 @@
 Copyright 2024 Campbell Hennessy @campbellhennessy
+
 Copyright 2020 Werner Pieterson @wernerhp
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
