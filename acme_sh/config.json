@@ -25,6 +25,7 @@
     "keyfile": "str",
     "dns": {
       "provider": "str",
+      "sleep": "str",
       "env": ["str"]
     }
   }
